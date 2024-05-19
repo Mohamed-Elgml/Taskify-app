@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824869725845",
+    "project_id": "todo-ecf7e",
+    "storage_bucket": "todo-ecf7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824869725845:android:64d7b27721cd7f75299d9c",
+        "android_client_info": {
+          "package_name": "com.example.todo_rout_cours"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjHqSl3yZbDEsYjB7AUHneBPSp-qx0upE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
